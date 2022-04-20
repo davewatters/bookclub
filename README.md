@@ -1,4 +1,4 @@
-# The Bookclub Meetup Project
+# The Bookclub Meetup Project [ cloned from PP4 ]
 
 ## An interactive social blog site for a Dubin Bookclub Meetup group.     
 
